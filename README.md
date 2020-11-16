@@ -10,6 +10,7 @@ The script demands that the following environment is supplied:
 - AutoHotKey is installed (https://www.autohotkey.com/)
 - Windows Operative System
   
+  
 The script supplies the following functionality:
 - V1.1 - terminates one given process based on used time.
 - V1.2 - adds termination based on computer time
