@@ -1,6 +1,6 @@
 # AHK_processTimeMonitorTerminate
-An AutoHotKey script to monitor and based on user time values, terminate said processes.  
-Based on user requests such as found on the listed sites below, proving that the functionality hereby intently provided is demanded by several people within the Windows user community:  
+An AutoHotKey script to monitor and based on user time values, terminate said processes.    
+Based on user requests such as found on the listed sites below, proving that the functionality hereby intently provided is demanded by several people within the Windows user community:    
 *Can I enforce a time limit window on Steam games[...]*  
 https://gaming.stackexchange.com/questions/74554/can-i-enforce-a-time-limit-window-on-steam-games-notably-team-fortress-2
   *Time limit for Steam is a must!!!*  
