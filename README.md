@@ -9,8 +9,8 @@ https://www.reddit.com/r/Steam/comments/64cnva/time_limit_for_steam_is_a_must/
 The script demands that the following environment is supplied:
 - AutoHotKey is installed (https://www.autohotkey.com/)
 - Windows Operative System
-  
-  
+<br/>
+<br/>
 The script supplies the following functionality:
 - V1.1 - terminates one given process based on used time.
 - V1.2 - adds termination based on computer time
