@@ -14,8 +14,6 @@ The script demands that the following environment is supplied:
 The script supplies the following functionality:
 - V1.1 - terminates one given process based on used time.
 - V1.2 - adds termination based on computer time
-- V2.0 - adds watch for multiple programs
-- V3.0 - catch user input upon process start
-- V4.0 - add security features for user input (injection etc.)
+
   
 This is a personal project made with the motivation based on the fun of coding itself. Suggestions of improvement of the source-code are very welcome and appreciated.
